@@ -1,0 +1,6 @@
+year = input ("what year is it ? \n")
+ryear = int(year)
+print("\n")
+age = input("what's your age ? \n")
+rage = int(age)
+print("your year of birth is ",ryear - rage)

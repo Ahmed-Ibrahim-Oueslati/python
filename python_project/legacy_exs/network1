@@ -1,0 +1,4 @@
+GET https://www.dr-chuck.com/page1.htm HTTP/1.0
+www.dr-chuck.com 80 sudo vi /etc/resolv.conf
+
+telnet www.dr-chuck.com 80

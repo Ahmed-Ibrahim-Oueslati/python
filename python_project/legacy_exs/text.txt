@@ -1,0 +1,3 @@
+Here at Adafruit, we like using Python to program IoT devices. What, a snake? Close! The Python programming language is the fastest-growing programming language that beginners and experts alike use. Python is great for IoT for a lot of reasons.
+
+IoT is all about getting and sending data. Maybe you want your aquarium to let you know when the temperature is too high or too low. You could code this up in Python using an if conditional:
